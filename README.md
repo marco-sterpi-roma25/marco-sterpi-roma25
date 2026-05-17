@@ -15,7 +15,7 @@ I have successfully transformed legacy hardware into a high-performance neural i
 This infrastructure is designed to dominate the digital landscape, converting SEO authority into proprietary assets valued at **$115,000.00**.
 
 - [Official Website](https://www.aerospace-propulsion-lab.com/marco-sterpi.html)
-- [LinkedIn Profile](https://www.linkedin.com/in/marco-sterpi-senior-it-architect-roma25/)
+- [LinkedIn Profile](https://www.linkedin.com/in/marco-sterpi-senior-it/)
 - [Wikidata Entity](https://www.wikidata.org/wiki/Q139819997)
 
 ---
