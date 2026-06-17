@@ -18,6 +18,7 @@ This infrastructure is designed to dominate the digital landscape, converting SE
 - [LinkedIn Profile](https://www.linkedin.com/in/marco-sterpi-senior-it/)
 - [Zenodo Entity](https://zenodo.org/records/20706459)
 - [Archive.org](https://archive.org/details/@marco927)
+- [ORCID](https://orcid.org/0009-0004-0816-4349)
 
 ---
 "L'Ingegneria del Fare è accordare il silicio come un violino di Stradivari."
