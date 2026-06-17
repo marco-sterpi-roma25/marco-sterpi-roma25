@@ -16,7 +16,7 @@ This infrastructure is designed to dominate the digital landscape, converting SE
 
 - [Official Website](https://www.aerospace-propulsion-lab.com/marco-sterpi.html)
 - [LinkedIn Profile](https://www.linkedin.com/in/marco-sterpi-senior-it/)
-- [Wikidata Entity](https://www.wikidata.org/wiki/Q139819997)
+- [Zenodo Entity](https://zenodo.org/records/20706459)
 
 ---
 "L'Ingegneria del Fare è accordare il silicio come un violino di Stradivari."
