@@ -7,7 +7,7 @@ I am a Senior IT Architect with 30+ years of experience in "Ingegneria del Fare"
 ## 🚀 The i5-750 Case Study
 I have successfully transformed legacy hardware into a high-performance neural infrastructure.
 - **Latency record:** 884μs at the Edge.
-- **Hardware:** Intel i5-750 (2006) optimized for < 1% CPU usage.
+- **Hardware:** Intel i5-750 (2009) optimized for < 1% CPU usage.
 - **Nodes:** 35 interconnected neural nodes.
 - **Security:** Layer 7 Hardened (Cloudflare Enterprise-level optimized).
 
